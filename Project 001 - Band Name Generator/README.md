@@ -2,11 +2,11 @@
 
 **Level - ** Very Easy | Beginner
 
-**Modules Used - ** Python General Functions
+**Modules Used -** Python General Functions
 
-**Description - ** Takes Inputs from User and print band name string
+**Description -** Takes Inputs from User and print band name string
 
-**Compilation - ** python main.py
+**Compilation -** python main.py
 
 ![Preview GIF](./preview.gif)
 
