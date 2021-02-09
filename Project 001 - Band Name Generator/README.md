@@ -1,6 +1,6 @@
 # Band Name Generator
 
-**Level - ** Very Easy | Beginner
+**Level -** Very Easy | Beginner
 
 **Modules Used - ** Python General Functions
 
